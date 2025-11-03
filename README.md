@@ -8,7 +8,7 @@ This is a **text-based Python application** that helps users track, manage, and 
 
 ---
 
-## ✅ Features
+## Features
 
 ### 1. 📂 File Import
 - Import CSV file with fields: `date`, `category`, `description`, `amount`
